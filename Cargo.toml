@@ -1,0 +1,10 @@
+[package]
+name = "indi-client"
+version = "0.0.1"
+authors = ["Manuel Fuchs <malax@malax.de>"]
+edition = "2018"
+license = "MIT"
+license-file = "LICENSE"
+description = "A Rust INDI (Instrument Neutral Distributed Interface) client library."
+
+[dependencies]
